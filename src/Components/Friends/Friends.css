@@ -1,0 +1,15 @@
+.friends{
+  border:1px solid lightgray;
+  margin:5px 5px; 
+  padding-bottom:5px;
+   
+
+}
+.add-button{
+    background-color: lightblue;
+    width: 150px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}

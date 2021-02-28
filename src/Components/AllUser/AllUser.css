@@ -1,0 +1,12 @@
+.friends-container{
+    display:flex;
+}
+.allFriends{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.selectedUser{
+    border-left: 1px solid lightgray;
+    padding-left: 10px;
+    
+}

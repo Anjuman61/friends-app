@@ -1,0 +1,17 @@
+.header{
+   display: flex;
+   line-height: 40px;
+   background-color:rgb(233, 219, 219);
+}
+
+.header nav{
+    font-size: 20px;
+}
+.header a{
+    text-decoration:none;
+    margin-right: 20px;
+    padding: 5px;
+}
+.search-tab{
+   align-items: flex-end;
+}
